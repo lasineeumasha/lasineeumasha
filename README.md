@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Lasini Umasha 👋</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
+
+<p align="center">
   <b>Computer System & Network Engineering Undergraduate</b><br>
   Sri Lanka Institute of Information Technology (SLIIT), Malabe
 </p>
